@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.venv
+.venv_paddleocr
+.pycache/
+.tools/
+backend/.venv
+backend/__pycache__/
+backend/app/__pycache__/
+backend/uploads/
+backend/output/
+PaddleOCR/
